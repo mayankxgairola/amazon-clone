@@ -23,4 +23,5 @@ This project was created for learning and practice purposes, focusing on respons
 ## Project Setup
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/mayankgairola/ecommerce-skeleton.git
+
