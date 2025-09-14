@@ -1,6 +1,6 @@
-# E-commerce Clone (HTML & CSS)
+# E-commerce Skelton (HTML & CSS)
 
-A simple front-end clone of the Amazon website built using **HTML** and **CSS**.  
+A simple front-end skeleton of the Amazon website built using **HTML** and **CSS**.  
 This project was created for learning and practice purposes, focusing on responsive design, layouts, and styling.
 
 ---
