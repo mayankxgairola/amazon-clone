@@ -1,4 +1,4 @@
-# Amazon Clone (HTML & CSS)
+# E-commerce Clone (HTML & CSS)
 
 A simple front-end clone of the Amazon website built using **HTML** and **CSS**.  
 This project was created for learning and practice purposes, focusing on responsive design, layouts, and styling.
